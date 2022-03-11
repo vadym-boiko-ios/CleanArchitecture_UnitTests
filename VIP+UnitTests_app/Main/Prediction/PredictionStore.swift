@@ -7,8 +7,6 @@
 
 import Foundation
 import Combine
-import SwiftUI
-
 
 class PredictionStore {
     
